@@ -1,0 +1,3 @@
+This project evaluates the quality and reliability of AI-generated responses using a structured annotation framework. The evaluation focuses on factual accuracy, relevance, completeness, instruction following, safety, and overall response quality.
+The dataset consists of 30 user prompts and corresponding AI-generated responses covering general knowledge, healthcare, reasoning, source-grounded question answering, instruction following, and safety-sensitive scenarios.
+Each response was systematically evaluated using a predefined rubric, error taxonomy, and safety framework. The project also incorporates annotation guidelines and a quality-control protocol to promote consistency and reproducibility.
